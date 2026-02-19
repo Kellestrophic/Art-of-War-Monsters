@@ -1,0 +1,64 @@
+# ===== UNITY GENERATED =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# ===== VS / RIDER =====
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== GRADLE =====
+.gradle/
+
+# ===== FIREBASE / SECRETS =====
+Assets/Firebase/Plugins/
+Assets/StreamingAssets/
+Assets/StreamingAssests/
+google-services.json
+GoogleService-Info.plist
+firebase-adminsdk-*.json
+Assets/StreamingAssets/google-services-desktop.json
+
+# ===== ENV FILES =====
+.env
+.env.*
+
+# ===== NODE =====
+node_modules/
+
+# ===== BUILDS =====
+*.apk
+*.aab
+*.app
+*.unitypackage
+Build*/
+Art_of_WarMonsters_BurstDebugInformation_DoNotShip/
+*.zip
+# ===== SERVER FOLDER (if separate) =====
+RewardWalletSetup/
+Assets/_Recovery/
+
+
+# Unity generated junk
+.utmp/
+.vscode/

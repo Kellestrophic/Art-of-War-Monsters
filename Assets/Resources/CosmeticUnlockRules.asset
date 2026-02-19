@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7398955958e4cc4fbeae7fa6cbf020c, type: 3}
+  m_Name: CosmeticUnlockRules
+  m_EditorClassIdentifier: Assembly-CSharp::CosmeticUnlockRules
+  rules:
+  - cosmeticKey: icon_artofwar
+    condition: 2
+    statName: 
+    dictKey: 
+    threshold: 5
+  - cosmeticKey: icon_artofwarmonsters
+    condition: 2
+    statName: 
+    dictKey: 
+    threshold: 6
+  - cosmeticKey: icon_cultist
+    condition: 1
+    statName: enemyKills
+    dictKey: Cultist
+    threshold: 150
+  - cosmeticKey: icon_reaper
+    condition: 2
+    statName: 
+    dictKey: 
+    threshold: 25
+  - cosmeticKey: cultistkiller_title
+    condition: 1
+    statName: enemyKills
+    dictKey: Cultist
+    threshold: 250
+  - cosmeticKey: icon_default
+    condition: 2
+    statName: 
+    dictKey: 
+    threshold: 1
+  - cosmeticKey: icon_explodingcultist
+    condition: 1
+    statName: enemyKills
+    dictKey: ExplodingCultist
+    threshold: 150
+  - cosmeticKey: icon_dracula
+    condition: 2
+    statName: 
+    dictKey: 
+    threshold: 3
+  - cosmeticKey: icon_skeletonarcher500
+    condition: 1
+    statName: enemyKills
+    dictKey: SkeletonArcher
+    threshold: 500
+  - cosmeticKey: icon_skeletonarcher1000
+    condition: 1
+    statName: enemyKills
+    dictKey: SkeletonArcher
+    threshold: 1000
+  - cosmeticKey: icon_skeletonarcher1500
+    condition: 1
+    statName: enemyKills
+    dictKey: SkeletonArcher
+    threshold: 1500
+  - cosmeticKey: icon_skeletonwarrior500
+    condition: 1
+    statName: enemyKills
+    dictKey: SkeletonWarrior
+    threshold: 500
+  - cosmeticKey: icon_skeletonwarrior1000
+    condition: 1
+    statName: enemyKills
+    dictKey: SkeletonWarrior
+    threshold: 1000
+  - cosmeticKey: icon_skeletonwarrior1500
+    condition: 1
+    statName: enemyKills
+    dictKey: SkeletonWarrior
+    threshold: 1500
+  - cosmeticKey: icon_cultist500
+    condition: 1
+    statName: enemyKills
+    dictKey: Cultist
+    threshold: 500
+  - cosmeticKey: icon_cultist1000
+    condition: 1
+    statName: enemyKills
+    dictKey: Cultist
+    threshold: 1000
+  - cosmeticKey: icon_cultist1500
+    condition: 1
+    statName: enemyKills
+    dictKey: Cultist
+    threshold: 1500
+  - cosmeticKey: icon_explodingcultist500
+    condition: 1
+    statName: enemyKills
+    dictKey: ExplodingCultist
+    threshold: 500
+  - cosmeticKey: icon_explodingcultist1000
+    condition: 1
+    statName: enemyKills
+    dictKey: ExplodingCultist
+    threshold: 1000
+  - cosmeticKey: icon_explodingcultist1500
+    condition: 1
+    statName: enemyKills
+    dictKey: ExplodingCultist
+    threshold: 1500
+  - cosmeticKey: icon_mrsmiley10
+    condition: 1
+    statName: enemyKills
+    dictKey: MrSmiley
+    threshold: 10
+  - cosmeticKey: icon_mrsmiley25
+    condition: 1
+    statName: bossKills
+    dictKey: MrSmiley
+    threshold: 25
+  - cosmeticKey: icon_mrsmiley30
+    condition: 1
+    statName: enemyKills
+    dictKey: MrSmiley
+    threshold: 45
+  - cosmeticKey: icon_mrsmileylimited
+    condition: 1
+    statName: bossKills
+    dictKey: MrSmiley
+    threshold: 1

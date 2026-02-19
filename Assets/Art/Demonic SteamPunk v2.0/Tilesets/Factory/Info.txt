@@ -1,0 +1,11 @@
+The window is 2x4 in 8x8 tiles, so 16x32 pixels. The background is meant to be built with a tileset of it's own.
+
+The pipes are designed to fit into one another, one end is wider and the other is flat. When placed next to
+each other, the effect of continuity is achieved.
+
+The hanging ceiling lights were made longer than they need to be so that if your level ends up being tall, they could reach.
+The light effect is also seperate so that you can play with lights flickering in a simple way.
+
+The stone platform and railing are not meant to be tiled, but it's possible.
+
+The treadmill has been animated to be moving to the right in two frames, but if you want to reverse it, just place frame 2 in front of frame 1.

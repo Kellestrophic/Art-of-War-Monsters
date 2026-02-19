@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13171e297f98b8d4ca885359681f36b1, type: 3}
+  m_Name: IconImageLibrary
+  m_EditorClassIdentifier: 
+  icons:
+  - key: icon_dracula
+    sprite: {fileID: 6190489451552391839, guid: 0be1ddb2aa933f74caff831067c2014f, type: 3}
+  - key: icon_artofwar
+    sprite: {fileID: 6190489451552391839, guid: af6f93a512b38e34290abaa9494fab01, type: 3}
+  - key: icon_artofwarmonsters
+    sprite: {fileID: 6190489451552391839, guid: bb1959c3c7ca4854d9cf2b6bda8168fd, type: 3}
+  - key: icon_cultist
+    sprite: {fileID: 6190489451552391839, guid: 2c869ffe6f65b0b4d8d67d49ecbc2a2a, type: 3}
+  - key: icon_reaper
+    sprite: {fileID: 6190489451552391839, guid: ec14683941686524bab55f67005d0b27, type: 3}
+  - key: icon_explodingcultist
+    sprite: {fileID: 6190489451552391839, guid: 4f63a6babac7a6e40969e04655e5b62a, type: 3}
+  - key: default_icon
+    sprite: {fileID: 6190489451552391839, guid: e195126103a017142bc995203117d0ed, type: 3}
+  fallbackIcon: {fileID: 0}

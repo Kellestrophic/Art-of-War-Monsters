@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 011f87504995ec94cbc2e106ec6f4295, type: 3}
+  m_Name: CharacterLibrary_Default
+  m_EditorClassIdentifier: 
+  characters:
+  - key: dracula
+    displayName: Dracula
+    icon: {fileID: 6190489451552391839, guid: 0be1ddb2aa933f74caff831067c2014f, type: 3}
+    epicCost: 0
+  - key: wolfman
+    displayName: Wolfman
+    icon: {fileID: 6190489451552391839, guid: e71c690e92a5e9f418869004f8e469f9, type: 3}
+    epicCost: 100

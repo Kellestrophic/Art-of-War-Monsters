@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d147377ba9d164646a524aa62a71a156, type: 3}
+  m_Name: CosmeticLibrary
+  m_EditorClassIdentifier: 
+  items:
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_neodraculabody
+    displayName: Neo Dracula Full Body
+    sprite: {fileID: 6190489451552391839, guid: fdb25419af097704fa09390ddc0127b3, type: 3}
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_headknight
+    displayName: Head Knight the Brave
+    sprite: {fileID: 6190489451552391839, guid: c16db33675458e84bb6e8c46a591cab7, type: 3}
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_retrodracula
+    displayName: Retro Dracula
+    sprite: {fileID: 6190489451552391839, guid: 702526f706f30f54fa50e810bca343b4, type: 3}
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_retrowolfman
+    displayName: Retro Wolfman
+    sprite: {fileID: 6190489451552391839, guid: f74dc8f2dcaeab643b3c15aa3854dbf5, type: 3}
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_neodracula
+    displayName: Neo Dracula
+    sprite: {fileID: 6190489451552391839, guid: a4e7c48cb8104894ba3f2f9bc3aeaaae, type: 3}
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_berzerk
+    displayName: Berzerk
+    sprite: {fileID: 6190489451552391839, guid: 7c60d47fa288e8a4f8799eca333bec0a, type: 3}
+  - isPremium: 1
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_fearthereaper
+    displayName: Fear the Reaper
+    sprite: {fileID: 6190489451552391839, guid: 65f73acc23be5ef4c8f19e0e97b15397, type: 3}
+  - isPremium: 0
+    priceUSD: 0.5
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_artofwarmonsters
+    displayName: 'Art of War: Monsters'
+    sprite: {fileID: 6190489451552391839, guid: bb1959c3c7ca4854d9cf2b6bda8168fd, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_artofwar
+    displayName: Art of War
+    sprite: {fileID: 6190489451552391839, guid: af6f93a512b38e34290abaa9494fab01, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 2
+    id: bronze_frame
+    displayName: 
+    sprite: {fileID: 21300000, guid: f21281c948a3e4f4ca9ac361df795a3c, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 0
+    id: scaredbaby_title
+    displayName: Scared Baby
+    sprite: {fileID: 0}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 0
+    id: peepants_title
+    displayName: Pee Pants
+    sprite: {fileID: 0}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 0
+    id: betatester_title
+    displayName: Beta Tester
+    sprite: {fileID: 0}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_reaper
+    displayName: Reaper
+    sprite: {fileID: 6190489451552391839, guid: ec14683941686524bab55f67005d0b27, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: default_icon
+    displayName: Scared Baby
+    sprite: {fileID: 6190489451552391839, guid: e195126103a017142bc995203117d0ed, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_dracula
+    displayName: Dracula
+    sprite: {fileID: 6190489451552391839, guid: 0be1ddb2aa933f74caff831067c2014f, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_cultist
+    displayName: Cultist
+    sprite: {fileID: 6190489451552391839, guid: 2c869ffe6f65b0b4d8d67d49ecbc2a2a, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_explodingcultist
+    displayName: Exploding Cultist
+    sprite: {fileID: 6190489451552391839, guid: 4f63a6babac7a6e40969e04655e5b62a, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_skeletonarcher500
+    displayName: Skeleton Archer Killer
+    sprite: {fileID: 6190489451552391839, guid: 9ad960d051e94454bbab9fd1994b15c2, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_skeletonarcher1000
+    displayName: Skeleton Archer Destroyer
+    sprite: {fileID: 6190489451552391839, guid: bcaf3d3441473234daabb59bd86e0834, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_skeletonarcher1500
+    displayName: Skeleton Archer Annihilator
+    sprite: {fileID: 6190489451552391839, guid: bf60848b9fb169245889026ef7d916fa, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_skeletonwarrior500
+    displayName: Skeleton Warrior Killer
+    sprite: {fileID: 6190489451552391839, guid: 53845c9ba8003014bbd5054167730fd8, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_skeletonwarrior1000
+    displayName: Skeleton Warrior Destroyer
+    sprite: {fileID: 6190489451552391839, guid: 3c1c1c193406e7c4ba1544d326e4f111, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_skeletonwarrior1500
+    displayName: Skeleton Warrior Annihilator
+    sprite: {fileID: 6190489451552391839, guid: 94c82f67ff4b13747899f9891b99a6f7, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_cultist500
+    displayName: Cultist Killer
+    sprite: {fileID: 6190489451552391839, guid: d31c5b5457dcd1449837bf14e568d01c, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_cultist1000
+    displayName: Cultist Destroyer
+    sprite: {fileID: 6190489451552391839, guid: 361e605922bca924ea92a23cc5260315, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_cultist1500
+    displayName: Cultist Annihilator
+    sprite: {fileID: 6190489451552391839, guid: c7ab6c85a4decd84092cb1fe9bf34e85, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_explodingcultist500
+    displayName: Exploding Cultist Killer
+    sprite: {fileID: 6190489451552391839, guid: e02a7094aab9b7c45a3865b599daa0bf, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_explodingcultist1000
+    displayName: Exploding Cultist Destroyer
+    sprite: {fileID: 6190489451552391839, guid: 7f29b5ad87987bf46b26ff19ff2c0bbe, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 1
+    type: 1
+    id: icon_explodingcultist1500
+    displayName: Exploding Cultist Annihilator
+    sprite: {fileID: 6190489451552391839, guid: f18b6087d0967d04b8a2f704b7c5b18b, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 0
+    type: 1
+    id: icon_mrsmileylimited
+    displayName: Mr. Smiley Book of Souls
+    sprite: {fileID: 6190489451552391839, guid: 552569e363cdf8c4291dabf9fc532e28, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 0
+    type: 1
+    id: icon_mrsmiley10
+    displayName: Mr. Smiley Killer
+    sprite: {fileID: 6190489451552391839, guid: 32db4c448dce93549bd0e3265b5832d4, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 0
+    type: 1
+    id: icon_mrsmiley25
+    displayName: Mr. Smiley Destroyer
+    sprite: {fileID: 6190489451552391839, guid: ae69a621be694684299e5cc90a058274, type: 3}
+  - isPremium: 0
+    priceUSD: 0.99
+    unlockEnabled: 1
+    purchaseEnabled: 0
+    type: 1
+    id: icon_mrsmiley30
+    displayName: Mr. Smiley Annihilator
+    sprite: {fileID: 6190489451552391839, guid: 02ba6fb0f8f746f41a1e1dd8f9264202, type: 3}

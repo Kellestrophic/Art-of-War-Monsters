@@ -1,0 +1,29 @@
+The srpitesheet is ordered by rows, each row is one tag, one animation, for example the first
+row contains three frames of the unarmed idle animation, the second row the coin flip animation, and so on.
+
+The ordering of the animations, once more, is:
+
+    idle 1 (unarmed)
+    coin flip
+    turn to run (stop running played in reverse) (unarmed)
+    run (unarmed)
+    jump start (unarmed)
+    jump middle/fall (unarmed)
+    jump end/landing (unarmed)
+    summon scythe
+    scythe idle
+    turn to run
+    run
+    jump start/fall
+    jump end/landing
+    side combo ground (two strikes, five frames each)
+    up combo ground (two strikes, five frames each)​
+    side combo air (two strikes, five frames each)​
+    up combo air (two strikes, five frames each)​
+    hurt
+    hurt (unarmed)
+    death
+    aim gun (unarmed)
+    aim gun
+    shoot gun (unarmed)
+    shoot gun
